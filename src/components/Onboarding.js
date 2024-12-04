@@ -96,7 +96,7 @@ const Onboarding = ({ onComplete }) => {
   const currentStep = steps[step - 1];
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gray-50 p-4">
+    <div className="min-h-screen flex items-center justify-center bg-gray-50 p-6">
       <Card className="w-full max-w-md">
         <CardHeader>
           <div className="flex flex-col items-center">
