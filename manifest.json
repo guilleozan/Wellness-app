@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Wellness Timer",
+    "version": "1.0",
+    "description": "Track and remind yourself to stay healthy throughout your work day",
+    "permissions": [
+      "storage"
+    ],
+    "action": {
+      "default_popup": "index.html"
+    }
+  }
